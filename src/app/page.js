@@ -32,7 +32,7 @@ export default function Home() {
             <a href="#results">Results</a>
             <a href="#pricing">Pricing</a>
             <a href="#faq">FAQ</a>
-            <a href="#contact" className="nav-cta">Free Consultation</a>
+            <a href="https://calendar.notion.so/meet/awesome082284/nl653u3w" target="_blank" rel="noopener noreferrer" className="nav-cta">Free Consultation</a>
           </div>
         </div>
       </nav>
@@ -50,7 +50,7 @@ export default function Home() {
             reviews, and admin work — so you can focus on growing your business.
           </p>
           <div className="hero-buttons">
-            <a href="#contact" className="hero-cta">
+            <a href="https://calendar.notion.so/meet/awesome082284/nl653u3w" target="_blank" rel="noopener noreferrer" className="hero-cta">
               Get Your Free AI Audit &rarr;
             </a>
             <a href="#results" className="hero-secondary">
@@ -270,7 +270,7 @@ export default function Home() {
               <li>Monthly optimization</li>
               <li>Performance reports</li>
             </ul>
-            <a href="#contact" className="price-btn">Start Free Trial</a>
+            <a href="https://calendar.notion.so/meet/awesome082284/nl653u3w" target="_blank" rel="noopener noreferrer" className="price-btn">Start Free Trial</a>
           </div>
           <div className="price-card featured">
             <h3>Growth</h3>
@@ -284,7 +284,7 @@ export default function Home() {
               <li>Review management</li>
               <li>Dedicated account manager</li>
             </ul>
-            <a href="#contact" className="price-btn">Start Free Trial</a>
+            <a href="https://calendar.notion.so/meet/awesome082284/nl653u3w" target="_blank" rel="noopener noreferrer" className="price-btn">Start Free Trial</a>
           </div>
           <div className="price-card">
             <h3>Enterprise</h3>
@@ -298,7 +298,7 @@ export default function Home() {
               <li>Strategy consulting</li>
               <li>White-label options</li>
             </ul>
-            <a href="#contact" className="price-btn">Contact Us</a>
+            <a href="https://calendar.notion.so/meet/awesome082284/nl653u3w" target="_blank" rel="noopener noreferrer" className="price-btn">Contact Us</a>
           </div>
         </div>
         <div className="guarantee">
@@ -385,7 +385,7 @@ export default function Home() {
       {/* FINAL CTA */}
       <section className="final-cta">
         <h2>Every Day Without AI is a Day Your<br />Competitor Gets Ahead.</h2>
-        <a href="#contact" className="cta-btn">
+        <a href="https://calendar.notion.so/meet/awesome082284/nl653u3w" target="_blank" rel="noopener noreferrer" className="cta-btn">
           Start Automating Today &rarr;
         </a>
       </section>
@@ -404,7 +404,7 @@ export default function Home() {
             <a href="#results">Results</a>
             <a href="#pricing">Pricing</a>
             <a href="#faq">FAQ</a>
-            <a href="#contact">Contact</a>
+            <a href="https://calendar.notion.so/meet/awesome082284/nl653u3w" target="_blank" rel="noopener noreferrer">Contact</a>
           </div>
         </div>
         <div className="footer-bottom">
